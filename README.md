@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💫 About Me:
-Hi there! 👋<br>I'm an aspiring web developer with a passion for learning and building dynamic, real-time web applications. 🌐 My current focus includes:<br><br>* Socket.IO, JWT, and MongoDB for crafting robust backend solutions.<br>*React and Tailwind CSS for creating sleek, responsive user interfaces.<br>*Frontend state management and data-driven integrations for seamless user experiences.<br><br>Currently, I'm working on a lightweight social media dashboard that integrates analytics from platforms like Twitter, YouTube, and Instagram via REST APIs.<br><br>🚀 I enjoy contributing to open-source chat projects and experimenting with real-time data to solve real-world challenges.<br><br>Let's connect and build something amazing! 🛠️
+# 💫 
+Hi 👋! My name is John Raymond Caberte
 </div>
 <div align="center">
 
