@@ -21,7 +21,6 @@ Hi 👋! My name is John Raymond Caberte
 <div style="display: flex; justify-content: center; align-items: center;">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tatakai7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tatakai7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatakai7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
